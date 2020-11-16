@@ -1,0 +1,20 @@
+The Plan:
+
+Make an app that allows the play of the game rock paper scissors
+
+Mandatory Features:
+- Regular Rock Paper Scissors GamePlay (essentially until you want to stop playing)
+       - each game that is won is counted as a win for that player (rather than a group of games)
+- Best out of 3, 5, 7
+        - essentially playing in series such that each series win counts as a win for that player
+        - can play a set amount of games or playing until the heart is content
+- Keep Track of for Consequetive Highscores, aka most games won without a loss in between
+
+
+Special (Optional) Features:
+- Design a Special Modification of a game where 1 to 3 more object (depending on how much Shaneil wants) can be made and incorperated into the game
+        - ex: lightsaber can be used once every 3 wins and it beats every object besides scissors
+- add music and pretty titles and a theme
+- dark and light theme
+
+
